@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3b03fe56.css",
+    "main.js": "/static/js/main.1344e246.js",
+    "static/media/event-hero-img.jpg": "/static/media/event-hero-img.a8ba4d76a50fb7274138.jpg",
+    "static/media/indoor.jpg": "/static/media/indoor.fa9aedc5378635d3c08f.jpg",
+    "static/media/icon_eye.svg": "/static/media/icon_eye.73f980a81c6a671585899ae7a4b597f2.svg",
+    "index.html": "/index.html",
+    "static/media/share-icon.svg": "/static/media/share-icon.22ed10138e89423e654fd9d930dac333.svg",
+    "main.3b03fe56.css.map": "/static/css/main.3b03fe56.css.map",
+    "main.1344e246.js.map": "/static/js/main.1344e246.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b03fe56.css",
+    "static/js/main.1344e246.js"
+  ]
+}
